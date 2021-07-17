@@ -38,9 +38,5 @@ int main()
   
     vector<vector<int>> result=add_vec(v1,v2);
     print(result);
-    
-
-    
-    
-    return 0;
+     return 0;
 }
